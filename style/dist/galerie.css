@@ -5,7 +5,6 @@
   align-items: center;
   gap: 10px;
   padding: 10px;
-  padding-bottom: 40px;
 }
 .galerie .wp-block-cover {
   position: relative;
@@ -41,7 +40,4 @@
 .galerie .wp-block-cover__inner-container p a:hover {
   background-color: rgba(0,0,0,0.7);
   transition: ease 0.3s;
-}
-.odsazeni_galerie {
-  padding-bottom: 40px;
 }
